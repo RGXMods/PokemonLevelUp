@@ -197,10 +197,13 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | WoW Version | Interface | Status | TOC File |
 |-------------|-----------|--------|----------|
-| **Midnight (Retail)** | `120007` | ✅ Fully Supported | `PokemonLevelUp.toc` |
-| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `PokemonLevelUp.toc` |
-| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `PokemonLevelUp.toc` |
-| **Classic Era** | `11509` | ✅ Fully Supported | `PokemonLevelUp.toc` |
+| **Midnight (Retail)** | `120100` | ✅ Fully Supported | `PokemonLevelUp.toc` |
+| **WoW Forever (Beta)** | `16001` | ✅ Fully Supported | `PokemonLevelUp_Forever.toc` |
+| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `PokemonLevelUp_Mists.toc` |
+| **Cataclysm Classic** | `40402` | ✅ Fully Supported | `PokemonLevelUp_Cata.toc` |
+| **Wrath of the Lich King Classic** | `38002` | ✅ Fully Supported | `PokemonLevelUp_Wrath.toc` |
+| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `PokemonLevelUp_TBC.toc` |
+| **Classic Era** | `11509` | ✅ Fully Supported | `PokemonLevelUp_Vanilla.toc` |
 
 </div>
 
