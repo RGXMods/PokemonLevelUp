@@ -97,7 +97,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ### <span style="color:#ffcb05">🔥 Why Choose PLU?</span>
 - **<span style="color:#2dc26b">🎮 RGX Quality:</span>** <span style="color:#e67e23">Built by the RealmGX community with passion</span>
-- **<span style="color:#ffcb05">🌍 Multi-Language:</span>** <span style="color:#e67e23">Supports English, Russian, German, French, and Spanish</span>
+- **<span style="color:#ffcb05">🌍 Multi-Language:</span>** <span style="color:#e67e23">Supports every WoW client language: English, German, Spanish (EU/Latin American), French, Italian, Korean, Brazilian Portuguese, European Portuguese, Russian, Chinese (Simplified/Traditional) — enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW</span>
 - **<span style="color:#b96ad9">🛠️ Professional Standards:</span>** <span style="color:#e67e23">Modern WoW addon architecture</span>
 - **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across supported WoW versions</span>
 - **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
@@ -134,11 +134,16 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 <td width="50%" valign="top">
 
 ### <span style="color:#4ecdc4">🌍 Multi-Language Support</span>
-- **<span style="color:#2dc26b">English</span>** (Default)
-- **<span style="color:#58be81">Deutsch</span>** (German)
-- **<span style="color:#4ecdc4">Français</span>** (French)
-- **<span style="color:#b96ad9">Español</span>** (Spanish)
-- **<span style="color:#8B1538">Русский</span>** (Russian)
+- **<span style="color:#2dc26b">English</span>** (enUS — Default)
+- **<span style="color:#58be81">Deutsch</span>** (German — deDE)
+- **<span style="color:#4ecdc4">Español</span>** (Spanish — esES, esMX)
+- **<span style="color:#b96ad9">Français</span>** (French — frFR)
+- **<span style="color:#b96ad9">Italiano</span>** (Italian — itIT)
+- **<span style="color:#b96ad9">한국어</span>** (Korean — koKR)
+- **<span style="color:#b96ad9">Português</span>** (Portuguese — ptBR, ptPT)
+- **<span style="color:#8B1538">Русский</span>** (Russian — ruRU)
+- **<span style="color:#8B1538">简体中文</span>** (Simplified Chinese — zhCN)
+- **<span style="color:#8B1538">繁體中文</span>** (Traditional Chinese — zhTW)
 
 </td>
 <td width="50%" valign="top">
@@ -233,7 +238,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 <span style="color:#ffcb05">🎉 Click to see the latest updates!</span>
 
 ### <span style="color:#4ecdc4">🆕 Major Updates</span>
-- <span style="color:#2dc26b">✅ **Multi-language support**</span> <span style="color:#e67e23">— English, German, French, Spanish, Russian</span>
+- <span style="color:#2dc26b">✅ **Multi-language support**</span> <span style="color:#e67e23">— all 12 WoW client locales: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW</span>
 - <span style="color:#ffcb05">✅ **Simplified command structure**</span> <span style="color:#e67e23">— direct sound selection</span>
 - <span style="color:#ff6b6b">✅ **Auto-unmute default sound**</span> <span style="color:#e67e23">when disabling addon</span>
 - <span style="color:#b96ad9">✅ **Updated TOC files**</span> <span style="color:#e67e23">for all WoW versions</span>
@@ -269,7 +274,7 @@ volume = "Master"        -- Volume channel
 - **<span style="color:#2dc26b">First Launch:</span>** <span style="color:#e67e23">Try `/plu test` to verify sound is working</span>
 - **<span style="color:#ffcb05">Quality:</span>** <span style="color:#e67e23">Use `high` for the most authentic Pokemon experience</span>
 - **<span style="color:#b96ad9">Volume:</span>** <span style="color:#e67e23">If the sound is too loud, switch to `med` or `low`</span>
-- **<span style="color:#ff6b6b">Language:</span>** <span style="color:#e67e23">The addon auto-detects your WoW client language</span>
+- **<span style="color:#ff6b6b">Language:</span>** <span style="color:#e67e23">The addon auto-detects your WoW client language (enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW) and falls back to English for anything else</span>
 
 </td>
 </tr>
@@ -290,7 +295,7 @@ volume = "Master"        -- Volume channel
 - <span style="color:#e67e23">Check that your in-game Master volume is not muted</span>
 
 **<span style="color:#ff6b6b">Wrong language?</span>**
-- <span style="color:#e67e23">The addon auto-detects your WoW client language. If incorrect, check your WoW language settings</span>
+- <span style="color:#e67e23">The addon auto-detects your WoW client language (all 12 locales — enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW — are built in, anything else falls back to English). If incorrect, check your WoW language settings</span>
 
 **<span style="color:#ff6b6b">Settings not saving?</span>**
 - <span style="color:#e67e23">Ensure WoW has write permissions to its SavedVariables folder</span>
@@ -306,7 +311,7 @@ volume = "Master"        -- Volume channel
 <span style="color:#e67e23">Contributions are welcome! Feel free to</span><span style="color:#3598db">:</span>
 - <span style="color:#2dc26b">🐛 **Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/RGXMods/PokemonLevelUp/issues)
 - <span style="color:#ff6b6b">💡 **Suggest features**</span> <span style="color:#e67e23">in our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)
-- <span style="color:#4ecdc4">🌍 **Help with translations**</span> <span style="color:#e67e23">for global players</span>
+- <span style="color:#4ecdc4">🌍 **Help with translations**</span> <span style="color:#e67e23">for global players — all 12 WoW client locales (enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW) ship built in; report wording improvements via GitHub Issues</span>
 - <span style="color:#2dc26b">⭐ **Star the repository**</span> <span style="color:#e67e23">to show your support</span>
 
 ---
